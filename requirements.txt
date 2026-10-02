@@ -1,0 +1,9 @@
+duckdb
+pandas
+scikit-learn
+mlflow
+streamlit
+plotly
+joblib
+kaggle
+tabulate
