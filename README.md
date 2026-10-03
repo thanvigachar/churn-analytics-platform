@@ -46,13 +46,6 @@ Full numbers: [docs/results.md](docs/results.md)
 - Electronic check payers (45.3%) and fiber optic users (41.9%) churn more
 - Short tenure, month-to-month contracts and fiber optic raise churn; long contracts lower it
 
-## Screenshots
-
-![MLflow runs](docs/screenshots/mlflow_runs.png)
-![Who churns](docs/screenshots/dash_segments.png)
-![Why they churn](docs/screenshots/dash_drivers.png)
-![Model comparison](docs/screenshots/dash_models.png)
-![Who to contact first](docs/screenshots/dash_risk.png)
 
 ## Business recommendations
 
